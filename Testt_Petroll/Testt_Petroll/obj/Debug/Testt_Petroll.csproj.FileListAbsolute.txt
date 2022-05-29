@@ -1,0 +1,20 @@
+C:\Users\furkan fırat\source\repos\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.csproj.AssemblyReference.cache
+C:\Users\furkan fırat\source\repos\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.Form1.resources
+C:\Users\furkan fırat\source\repos\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.Properties.Resources.resources
+C:\Users\furkan fırat\source\repos\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.csproj.GenerateResource.cache
+C:\Users\furkan fırat\source\repos\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.csproj.CoreCompileInputs.cache
+C:\Users\furkan fırat\source\repos\Testt_Petroll\Testt_Petroll\bin\Debug\Testt_Petroll.exe.config
+C:\Users\furkan fırat\source\repos\Testt_Petroll\Testt_Petroll\bin\Debug\Testt_Petroll.exe
+C:\Users\furkan fırat\source\repos\Testt_Petroll\Testt_Petroll\bin\Debug\Testt_Petroll.pdb
+C:\Users\furkan fırat\source\repos\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.exe
+C:\Users\furkan fırat\source\repos\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.pdb
+C:\Users\furkan fırat\Desktop\ŞİFRELİ_VERİLRRR\benzin takip sistemi\Testt_Petroll\Testt_Petroll\bin\Debug\Testt_Petroll.exe.config
+C:\Users\furkan fırat\Desktop\ŞİFRELİ_VERİLRRR\benzin takip sistemi\Testt_Petroll\Testt_Petroll\bin\Debug\Testt_Petroll.exe
+C:\Users\furkan fırat\Desktop\ŞİFRELİ_VERİLRRR\benzin takip sistemi\Testt_Petroll\Testt_Petroll\bin\Debug\Testt_Petroll.pdb
+C:\Users\furkan fırat\Desktop\ŞİFRELİ_VERİLRRR\benzin takip sistemi\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.csproj.AssemblyReference.cache
+C:\Users\furkan fırat\Desktop\ŞİFRELİ_VERİLRRR\benzin takip sistemi\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.Form1.resources
+C:\Users\furkan fırat\Desktop\ŞİFRELİ_VERİLRRR\benzin takip sistemi\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.Properties.Resources.resources
+C:\Users\furkan fırat\Desktop\ŞİFRELİ_VERİLRRR\benzin takip sistemi\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.csproj.GenerateResource.cache
+C:\Users\furkan fırat\Desktop\ŞİFRELİ_VERİLRRR\benzin takip sistemi\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.csproj.CoreCompileInputs.cache
+C:\Users\furkan fırat\Desktop\ŞİFRELİ_VERİLRRR\benzin takip sistemi\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.exe
+C:\Users\furkan fırat\Desktop\ŞİFRELİ_VERİLRRR\benzin takip sistemi\Testt_Petroll\Testt_Petroll\obj\Debug\Testt_Petroll.pdb
